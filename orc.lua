@@ -10,7 +10,7 @@ function init()
         lookType = 186,
         groupId = "orcs",
 
-        speed = 260,
+        speed = 360,
         healthFactor = 1.35,
         strengthMultiplier = 1.5,
         weakFromPower = 1140,
