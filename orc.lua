@@ -27,7 +27,7 @@ function init()
         },
 
         attacks = {
-          { target = true, cooldown = 2500, chance = 100, subname = "basic", range = 1, outfit = 187, script = "orcs/orc_basic.lua", attackPercent = 16 },
+          { target = true, cooldown = 3500, chance = 100, subname = "basic", range = 1, outfit = 187, script = "orcs/orc_basic.lua", attackPercent = 20 },
         }
       },
     }
