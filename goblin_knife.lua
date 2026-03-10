@@ -28,7 +28,7 @@ function init()
         },
 
         attacks = {
-          { target = true, cooldown = 2000, chance = 100, subname = "basic", range = 1, script = "goblins/goblin_knife_basic.lua", attackPercent = 10 }
+          { target = true, cooldown = 4000, chance = 100, subname = "basic", range = 1, script = "goblins/goblin_knife_basic.lua", attackPercent = 15 }
         }
       },
     }
