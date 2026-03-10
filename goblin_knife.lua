@@ -10,7 +10,7 @@ function init()
         lookType = 58,
         groupId = "goblins",
 
-        speed = 200,
+        speed = 250,
         healthFactor = 1,
         weakFromPower = 680,
 
